@@ -1,0 +1,11 @@
+{
+  "name": "gulp-rick-roll",
+  "version": "1.0.0",
+  "description": "Allows you to Rick roll your Gulp-using colleagues",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node ./index.js"
+  },
+  "author": "crisbeto",
+  "license": "MIT"
+}
